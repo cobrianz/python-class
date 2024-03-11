@@ -1,1 +1,1 @@
-Python class from zero to hero for beginners
+easy Python class from zero to hero for beginners
